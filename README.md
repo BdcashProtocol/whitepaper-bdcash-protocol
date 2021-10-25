@@ -1,6 +1,6 @@
 # whitepaper for Bdcash Protocol project
 
-
+<img src='https://raw.githubusercontent.com/BdcashProtocol/whitepaper-bdcash-protocol/main/logo.png' height="80">
 
 Feel free and get to know our ecosystem proposal!
 
