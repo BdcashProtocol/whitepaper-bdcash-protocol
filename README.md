@@ -16,7 +16,7 @@ want to help with a fix? Then follow the steps below:
 
 <ul>
 <li>Download Github Desktop</li>
-<li>Create a fork on your pc and edit using Microsoft Word</li>
+<li>Create a fork on your pc and create new labguage using Microsoft Word</li>
 <li>After that, send a PR for analysis.</li>
 </ul>
 
