@@ -27,5 +27,5 @@ All contributors will receive a bonus for each aid.
 
 ## Contributors
 
- [![Sergey Reznik]](https://t.me/Biotrans2016) (RUSSIAN VERSION)
+ https://t.me/Biotrans2016 (RUSSIAN VERSION)
  
